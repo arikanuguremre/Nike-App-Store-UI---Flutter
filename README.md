@@ -6,3 +6,5 @@
 
 
 ![alt text](https://github.com/arikanuguremre/Nike-App-Store-UI---Flutter/blob/Main/lib/images/ui2.png)
+![alt text](https://github.com/arikanuguremre/Nike-App-Store-UI---Flutter/blob/Main/lib/images/ui4.png)
+
